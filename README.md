@@ -40,7 +40,9 @@ The scraper automatically regenerates it when running `npm run scrape`.
 
 ## 📸 Output Preview
 
-![JSONL Preview](screenshots/all_projects_preview.png)
+Below is a preview of the extracted JSONL data:
+
+![JSONL Preview](all_projects_preview.png)
 
 ---
 
