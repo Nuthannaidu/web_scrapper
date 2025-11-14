@@ -34,6 +34,13 @@ web_scrapper/
 ├── package.json
 ├── README.md
 ```
+Note:
+Full output dataset was removed from GitHub due to size limits.
+The scraper automatically regenerates it when running `npm run scrape`.
+
+## 📸 Output Preview
+
+![JSONL Preview](screenshots/all_projects_preview.png)
 
 ---
 
